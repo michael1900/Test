@@ -150,6 +150,12 @@ https://huhu.to/play/2555960713/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1759625738/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COLLECTION |H" group-title="Film & Serie TV" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY CINEMA COLLECTION |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/3525837057/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA UNO |E" group-title="Film & Serie TV" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY CINEMA UNO |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -161,18 +167,6 @@ https://huhu.to/play/2872151911/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/3060043751/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COLLECTION |H" group-title="Film & Serie TV" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY CINEMA COLLECTION |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/3525837057/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION (BACKUP) |H" group-title="Film & Serie TV" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY CINEMA ACTION (BACKUP) |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COMEDY |H" group-title="Film & Serie TV" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY CINEMA COMEDY |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -221,6 +215,12 @@ https://huhu.to/play/1820997555/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2330574729/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION (BACKUP) |H" group-title="Film & Serie TV" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY CINEMA ACTION (BACKUP) |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DRAMA |E" group-title="Film & Serie TV" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY CINEMA DRAMA |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -286,17 +286,17 @@ https://huhu.to/play/318057128/index.m3u8
 
 #EXTINF:-1, --- Intrattenimento ---
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 7 |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/3618643172/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY ATLANTIC |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1421393119/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 5 |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2255083866/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 6 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 6 |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -316,42 +316,6 @@ https://huhu.to/play/525374356/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1440779061/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 4 |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2416993844/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 10 |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2268489342/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 8 |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2130255339/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 9 |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/1753260677/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 7 |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/4238969402/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 7 |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/3618643172/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 5 |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -363,6 +327,42 @@ https://huhu.to/play/2909818756/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/573618724/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 9 |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/1134113883/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 10 |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/4272937805/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY ARTE |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY ARTE |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/1806815496/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 5 |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/2255083866/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 7 |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/4238969402/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 4 |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 1 |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -382,35 +382,35 @@ https://huhu.to/play/1482866609/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1492183364/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 10 |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/2268489342/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY ARTE |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY ARTE |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1902695925/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 9 |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 8 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/1134113883/index.m3u8
+https://huhu.to/play/2130255339/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 10 |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY PRIMAFILA 9 |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/4272937805/index.m3u8
+https://huhu.to/play/1753260677/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY UNO |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY UNO |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2130523218/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY ARTE |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY ARTE |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SUPER TENNIS |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",SKY SUPER TENNIS |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -560,6 +560,12 @@ https://huhu.to/play/1225653759/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1768670187/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI 1 |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/875922788/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="RAI 2 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI 2 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -590,11 +596,23 @@ https://huhu.to/play/1324733956/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/869117599/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI YOYO |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI 2 |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/1890950169/index.m3u8
+https://huhu.to/play/246253359/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",MEDIASET 1 |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/633342961/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI STORIA |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/78838793/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI SCUOLA |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -602,11 +620,11 @@ https://huhu.to/play/1890950169/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2007798511/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI SCUOLA |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/875922788/index.m3u8
+https://huhu.to/play/1886684667/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FOCUS |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",FOCUS |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -625,18 +643,6 @@ https://huhu.to/play/477466531/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/4241820180/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI 2 |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/246253359/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",MEDIASET 1 |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/633342961/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",MEDIASET 20 |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -674,12 +680,6 @@ https://huhu.to/play/57338653/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/3249873828/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI STORIA |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/78838793/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RAI 5 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI 5 |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -691,6 +691,12 @@ https://huhu.to/play/3163380543/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/23919988/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI YOYO |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/1890950169/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI GULP |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI GULP |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -740,12 +746,6 @@ https://huhu.to/play/2113273064/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/374675593/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RAI SCUOLA |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/1886684667/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",MEDIASET INFINITY+ 1 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -794,12 +794,6 @@ https://huhu.to/play/3373510242/index.m3u8
 
 #EXTINF:-1, --- Sport ---
 
-#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN |E" group-title="Sport" http-user-agent="HUHU" http-referrer="https://huhu.to",ZONA DAZN |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2911178456/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 |E" group-title="Sport" http-user-agent="HUHU" http-referrer="https://huhu.to",DAZN 1 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -812,11 +806,11 @@ https://huhu.to/play/1376440573/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/363506221/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 |H" group-title="Sport" http-user-agent="HUHU" http-referrer="https://huhu.to",EUROSPORT 2 |H
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN |E" group-title="Sport" http-user-agent="HUHU" http-referrer="https://huhu.to",ZONA DAZN |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2317684453/index.m3u8
+https://huhu.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN |H" group-title="Sport" http-user-agent="HUHU" http-referrer="https://huhu.to",DAZN |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -835,6 +829,12 @@ https://huhu.to/play/3481346857/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2283887097/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 |H" group-title="Sport" http-user-agent="HUHU" http-referrer="https://huhu.to",EUROSPORT 2 |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/2317684453/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 |H" group-title="Sport" http-user-agent="HUHU" http-referrer="https://huhu.to",EUROSPORT 1 |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -962,17 +962,17 @@ https://huhu.to/play/2802329064/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1101559666/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MILAN TV |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",MILAN TV |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/3657217948/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 5 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CANALE 5 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1534161807/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",ITALIA 1 |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/663536394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LA 5 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",LA 5 |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -986,11 +986,11 @@ https://huhu.to/play/1425667375/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/84139639/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DMAX |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",DMAX |E
+#EXTINF:-1 tvg-id="" tvg-name="MILAN TV |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",MILAN TV |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/3008151733/index.m3u8
+https://huhu.to/play/3657217948/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LA 7 D |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",LA 7 D |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -998,11 +998,17 @@ https://huhu.to/play/3008151733/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/881846038/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IRIS |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",IRIS |E
+#EXTINF:-1 tvg-id="" tvg-name="LA 7 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",LA 7 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/576490047/index.m3u8
+https://huhu.to/play/2143522071/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LA 7 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",LA 7 |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/775530063/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RETE 4 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RETE 4 |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1010,23 +1016,11 @@ https://huhu.to/play/576490047/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2235732004/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CIELO |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CIELO |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/3743894403/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="GIALLO |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",GIALLO |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/4060499455/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE 34 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CINE 34 |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/62558606/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DMAX |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",DMAX |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1034,23 +1028,17 @@ https://huhu.to/play/62558606/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/3803638765/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",ITALIA 2 |E
+#EXTINF:-1 tvg-id="" tvg-name="RETE 4 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RETE 4 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/1613543898/index.m3u8
+https://huhu.to/play/4198218214/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CIELO |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CIELO |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2719953688/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CRIME+ INVESTIGATION |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CRIME+ INVESTIGATION |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/3005227700/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RTL 102.5 |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1063,6 +1051,12 @@ https://huhu.to/play/1729811452/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/11090349/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DMAX |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",DMAX |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/3008151733/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DEEJAY TV |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",DEEJAY TV |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1088,17 +1082,17 @@ https://huhu.to/play/1995860185/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/3475299702/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA 7 |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",LA 7 |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/775530063/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RTV SAN MARINO |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RTV SAN MARINO |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2343767125/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IRIS |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",IRIS |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/576490047/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RSI LA 1 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RSI LA 1 |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1106,23 +1100,29 @@ https://huhu.to/play/2343767125/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2455610203/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PADRE PIO TV |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",PADRE PIO TV |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/435016866/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="111 TV |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",111 TV |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1600139819/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="QVC |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",QVC |H
+#EXTINF:-1 tvg-id="" tvg-name="CIELO |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CIELO |H
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2952884641/index.m3u8
+https://huhu.to/play/3743894403/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",ITALIA 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="CINE 34 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CINE 34 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/663536394/index.m3u8
+https://huhu.to/play/62558606/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REAL TIME |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",REAL TIME |H
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1130,17 +1130,23 @@ https://huhu.to/play/663536394/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/2251241999/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RETE 4 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",RETE 4 |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/4198218214/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="REAL TIME |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",REAL TIME |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/1574975196/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",ITALIA 2 |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/1613543898/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIME+ INVESTIGATION |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CRIME+ INVESTIGATION |E
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/3005227700/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WWE CHANNEL |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",WWE CHANNEL |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1171,12 +1177,6 @@ https://huhu.to/play/2973773076/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/3009377513/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LA 7 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",LA 7 |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/2143522071/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",ITALIA 3 |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -1328,12 +1328,6 @@ https://huhu.to/play/3658277450/index.m3u8
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/631792369/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PADRE PIO TV |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",PADRE PIO TV |E
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/435016866/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 7 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CANALE 7 |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -1483,6 +1477,12 @@ https://huhu.to/play/2454558136/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/3014001260/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="QVC |H" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",QVC |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/2952884641/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANALE 2 |E" group-title="Intrattenimento" http-user-agent="HUHU" http-referrer="https://huhu.to",CANALE 2 |E
 #EXTVLCOPT:http-user-agent=HUHU
@@ -2456,6 +2456,12 @@ https://huhu.to/play/1794299695/index.m3u8
 
 #EXTINF:-1, --- Musica ---
 
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL |H" group-title="Musica" http-user-agent="HUHU" http-referrer="https://huhu.to",RADIO CAPITAL |H
+#EXTVLCOPT:http-user-agent=HUHU
+#EXTVLCOPT:http-referrer=https://huhu.to
+#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
+https://huhu.to/play/421441745/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV |E" group-title="Musica" http-user-agent="HUHU" http-referrer="https://huhu.to",BELLA RADIO TV |E
 #EXTVLCOPT:http-user-agent=HUHU
 #EXTVLCOPT:http-referrer=https://huhu.to
@@ -2497,12 +2503,6 @@ https://huhu.to/play/2339747193/index.m3u8
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
 https://huhu.to/play/68102734/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL |H" group-title="Musica" http-user-agent="HUHU" http-referrer="https://huhu.to",RADIO CAPITAL |H
-#EXTVLCOPT:http-user-agent=HUHU
-#EXTVLCOPT:http-referrer=https://huhu.to
-#EXTHTTP:{"User-Agent":"HUHU","Referer":"https://huhu.to"}
-https://huhu.to/play/421441745/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EURO INDIE MUSIC CHART TV |E" group-title="Musica" http-user-agent="HUHU" http-referrer="https://huhu.to",EURO INDIE MUSIC CHART TV |E
 #EXTVLCOPT:http-user-agent=HUHU
